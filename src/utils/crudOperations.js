@@ -13,3 +13,4 @@ if(populate){
 export const findAll = async (Model,query)=>{
     return await Model.find()
 }
+

@@ -26,3 +26,4 @@ export const validatePassword=(password , minLength=6)=>{
     }
 
 }
+
